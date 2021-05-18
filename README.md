@@ -1,1 +1,2 @@
 # ParadoxAPI
+## New Update
