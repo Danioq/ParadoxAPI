@@ -1,2 +1,6 @@
 # ParadoxAPI
-## New Update
+
+to run localy:
+
+- `cp .env.dist .env`
+- `go run .`
